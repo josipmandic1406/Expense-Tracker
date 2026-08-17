@@ -1,0 +1,11 @@
+# Compiled files
+main
+*.o
+*.out
+*.dSYM/
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
